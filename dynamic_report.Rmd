@@ -60,6 +60,7 @@ print(paste("Average piercings: ", mean_piercings))
 #bar chart shows the frequency of different types of piercings
 ggplot(latest_data, aes(x = typePiercings))+
   geom_bar(fill="pink", width = 0.6)+
+theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 labs(title = "piercing types frequency", x = "types of piercings", y = "frequency")
 
 # bar chart shows the proporttion of whether to continue piercing.
