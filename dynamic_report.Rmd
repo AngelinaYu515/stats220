@@ -69,6 +69,12 @@ ggplot(latest_data,aes(x = willContinue)) +
 labs(title = "continue with the idea of pirercing", x = "will continue", y = "count")
 
 ```
+`r min_piercings` is the minimum piercings.
+
+`r max_piercings` is the maximum piercings.
+
+`r mean_piercings` is the aveage piercings.
+
 Summary
 Through the above analysis, we have gained a preliminary understanding of the basic situation of current student piercing data and their future intentions. We use ggplot to display our data more intuitively, and we will continue to pay attention to recording and collecting data.
 
