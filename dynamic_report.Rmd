@@ -53,11 +53,8 @@ min_piercings <- min(latest_data$numPiercings)
 max_piercings <- max(latest_data$numPiercings)
 mean_piercings <- mean(latest_data$numPiercings)
 
-print(paste("Minimum piercings: ", min_piercings))
-print(paste("Maximum piercings: ", max_piercings))
-print(paste("Average piercings: ", mean_piercings))
 
-#bar chart shows the frequency of different types of piercings
+#bar charts shows the frequency of different types of piercings
 ggplot(latest_data, aes(x = typePiercings))+
   geom_bar(fill="pink", width = 0.6)+
 theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
