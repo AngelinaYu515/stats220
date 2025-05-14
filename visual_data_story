@@ -43,11 +43,19 @@ I spent a week observing the students' piercings and recorded what types of pier
 
 # gender of piercing
 ![plot about gender of piercing](gender_piercing_summary.png)
-
-  this plot is for me to observe how many male and female have piercing, What is the ratio of male and female piercings type.
+this plot is for me to observe how many male and female have piercing, What is the ratio of male and female piercings type.
 
 #distribution of number of piercings: nose vs others
 
 ![number of people have nose piercing Perforated ratio](number_of_piercings.png)
+this plot is for me to observe how many people have nose piercings and compare to others, i can see most of the student have 2 nose stud. 
 
-  from this plot i can see that students wearing piercings for a week. and most student like to wear on piercing each day, and The most students take piercings on Friday. and on Saterday there were the only day that has student wear 4 piercings.
+
+#how many student with piercings are seen on each day
+![](piercing_by_weekdays.png)
+from this plot i can see that students wearing piercings for a week. and most student like to wear on piercing each day, and The most students take piercings on Friday. and on Saterday there were the only day that has student wear 4 piercings.
+
+
+
+
+
